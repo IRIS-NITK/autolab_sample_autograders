@@ -1,7 +1,7 @@
 all:
 	tar xvf autograde.tar
 	cp handin.c autograder_files/
-	cd autograder_files && python3 driver.py
+	cd autograder_files && python3 evaluation_script.py
 
 clean:
 	rm -rf autograder_files
