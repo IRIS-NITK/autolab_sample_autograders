@@ -12,14 +12,14 @@
 
 ## Sample IO
  - Input:
- 	L1. 4
-	L2. 0
-	L3. 2
-	L4. 3
-	L5. 1
+ 	L1. 4<br>
+	L2. 0<br>
+	L3. 2<br>
+	L4. 3<br>
+	L5. 1<br>
  
  - Output:
- 	L1. 0
-	L2. 1
-	L3. 2
-	L4. 1
+ 	L1. 0<br>
+	L2. 1<br>
+	L3. 2<br>
+	L4. 1<br>
