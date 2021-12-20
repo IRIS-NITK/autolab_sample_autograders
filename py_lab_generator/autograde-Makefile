@@ -1,0 +1,8 @@
+all:
+	tar xvf autograde.tar
+	cp handin.py autograder_files/
+	cd autograder_files && python3 evaluation_script.py
+
+clean:
+	rm -rf autograder_files
+
