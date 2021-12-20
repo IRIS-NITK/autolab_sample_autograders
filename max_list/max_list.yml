@@ -1,0 +1,24 @@
+---
+general:
+  name: max_list
+  description: "Find the largest element in a list"
+  display_name: "Max List"
+  handin_filename: max_list.py
+  handin_directory: handin
+  max_grace_days: 0
+  handout: max_list-handout.tar
+  writeup: writeup/max_list.html
+  max_submissions: -1
+  disable_handins: false
+  max_size: 2
+  has_svn: false
+  category_name: Week-0 Lab
+problems:
+- name: Find max element
+  description: "Find the largest element in a list"
+  max_score: 100.0
+  optional: false
+autograder:
+  autograde_timeout: 180
+  autograde_image: autograding_image
+  release_score: true
